@@ -1,0 +1,4 @@
+which_access_can_requested_SwiftResponse
+
+There is no such categorization in application. However, the access is provided based on the user request.
+If the user is treasury cash manager, they will have payment approve access. If they are a regular user they can view statements and payments data of the particular zone.

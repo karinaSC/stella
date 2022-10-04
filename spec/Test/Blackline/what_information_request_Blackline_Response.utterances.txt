@@ -1,0 +1,4 @@
+what_information_request_Blackline_Response
+
+Before requesting access, you need to inform you **First Name, Last Name, Email ID, existing user in Blackline to be cloned, if any, or details of required access (entities, roles and teams) and approval of zone approver**.
+  BUTTON(Request Access | Request Access)

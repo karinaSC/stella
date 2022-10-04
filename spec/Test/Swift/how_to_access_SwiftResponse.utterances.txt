@@ -1,0 +1,6 @@
+
+how_to_access_SwiftResponse
+
+To access Swift, users need to be in the ABI Network:
+Swift can be accessed if user connect to ABI VPN or ABI Wifi at office;
+If both is not available for user, then they can login into VDI and access Swift.

@@ -1,0 +1,3 @@
+which_type_of_access_can_be_requested_in_MXP_rep
+
+By default, all users have basic access to MXP application. Therefore no normal access request to the end users in MXP application is necessary. Only sensitive access are provided at application Administrators layer.

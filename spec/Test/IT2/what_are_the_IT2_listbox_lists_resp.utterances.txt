@@ -1,0 +1,4 @@
+what_are_the_IT2_listbox_lists_resp
+
+"The *Listbox* lists the fields currently selected to sort items by. Items are sorted first by their grouping and then by the sorts specified in this listbox. The order that fields appear in this listbox is the order in wich the sorts will be applied to items in the Workbench.
+Alternatively, click on the header of the field to change the sorting order."

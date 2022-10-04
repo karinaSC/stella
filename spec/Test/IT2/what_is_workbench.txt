@@ -1,0 +1,8 @@
+what_is_workbench
+
+What is Workbench?
+What is a Workbench for?
+Can I integrate Workbench into process maps?
+Can I integrate Workbench into dashboards?
+Can I integrate Workbench into management dashboards?
+How Workbench are divided?

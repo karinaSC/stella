@@ -1,0 +1,3 @@
+who_owns_credit360_resp
+
+Credit360 owner is *[Felipe Biz]*(mailto:felipe.souza-ext@ab-inbev.com) and backup owner *[Ayan Mukherjee]*(mailto:ayan.mukherjee-ext@abi-inbev.com).

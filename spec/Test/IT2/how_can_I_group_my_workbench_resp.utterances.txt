@@ -1,0 +1,6 @@
+how_can_I_group_my_workbench_resp
+
+The *Group By* windows is used to specify how the rows in a Workbench or Workbench pane are grouped. You can access this window from *Group Control* on the Ribbon or the view summary window by pressing the *Group By* button.
+The listbox displays all the fields that are available for use as a group. For example, if you group by deal type, there will be a group of row items for each deal type. You can also add multiple grouping level.
+
+[Do you know how to remove Workbench grouping?]"

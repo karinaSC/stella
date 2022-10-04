@@ -1,0 +1,6 @@
+can_I_display_company_short_name_in_my_workbench
+
+Can I display company short name in my workbench?
+How can I bring up workbench summary window?
+How can I display compani short name instead of code in workbench?
+Can I display company short name instead of code in workbench?

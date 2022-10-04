@@ -1,0 +1,4 @@
+can_I_display_company_short_name_in_my_workbench_resp
+
+*Click in Ctrl+W from your keyboard*, you can bring up your Workbench summary windows.
+To display company short name instead of company code or vice versa, highlight the company field and go to *Properties*. Navigate to the *Other* tab and check/uncheck the *Display Name* box."

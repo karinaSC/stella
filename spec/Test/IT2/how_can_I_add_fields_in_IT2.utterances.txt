@@ -1,0 +1,8 @@
+how_can_I_add_fields_in_IT2
+
+How can I add fields in IT2?
+What does mean fields in IT2 highlighted in blue?
+What does mean fields in IT2 highlighted in black?
+Can I change IT2 field display name?
+Can I configure set in Workbench?
+Can I configure dates in Workbench?

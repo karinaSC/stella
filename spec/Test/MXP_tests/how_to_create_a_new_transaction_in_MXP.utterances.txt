@@ -1,0 +1,6 @@
+how_to_create_a_new_transaction_in_MXP
+
+How can I raise a service request for MXP?
+What is Create new transactions block of the MXP dasboard used for?
+How to document expenses in MXP?
+How to document mileage in MXP?

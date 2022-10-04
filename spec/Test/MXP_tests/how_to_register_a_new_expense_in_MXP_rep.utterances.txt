@@ -1,0 +1,3 @@
+how_to_register_a_new_expense_in_MXP_rep
+
+Click the Expenses icon in the Create new transactions block – a new expenses entry screen will be displayed. Enter your expense information – gold fields are *required*.

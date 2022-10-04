@@ -1,0 +1,4 @@
+how_can_I_use_the_lookup_function_in_IT2_resp
+
+On the left side of you screen, launch the *Lookup tables* Workbench.
+Create a formula using the *GetLookupValue* function.

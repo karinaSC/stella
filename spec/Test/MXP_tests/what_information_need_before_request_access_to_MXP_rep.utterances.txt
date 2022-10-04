@@ -1,0 +1,3 @@
+what_information_need_before_request_access_to_MXP_rep
+
+In MXP application, a user who needs admin access have to request the service provider through mail. The service provider grant the access with the approval.

@@ -1,0 +1,3 @@
+how_do_I_add_MXP_new_spend_categories_rep
+
+To ensure that new spend categories are properly created and linked to the correct GL account, please contact [MXP Service Desk] and they will add them for you.

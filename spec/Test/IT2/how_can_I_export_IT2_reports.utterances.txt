@@ -1,0 +1,8 @@
+how_can_I_export_IT2_reports
+
+How can I export IT2 reports?
+Can I change the workbenck into other formats?
+Can I run multiple exports in IT2?
+Can I run multiple exports at the same time in IT2?
+How an I run multiple exports in IT2?
+Where can I find report batches in IT2?

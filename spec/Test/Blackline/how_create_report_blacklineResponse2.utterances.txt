@@ -1,0 +1,3 @@
+how_create_report_blacklineResponse2
+
+click on **Reporting**, then provide the necessary information

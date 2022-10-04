@@ -1,0 +1,4 @@
+which_of_the_two_options_have_you_observed_an_incident_or_SU_resp
+
+The *Have you observed an incident or a hazard?* login method is for people who *do not have an account set up* or if you want to *quickly enter a hazard or observation*.
+On the other hand, if you have a User ID you can login using *System user login*.

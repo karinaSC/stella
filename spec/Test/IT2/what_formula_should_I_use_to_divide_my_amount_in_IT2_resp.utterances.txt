@@ -1,0 +1,4 @@
+what_formula_should_I_use_to_divide_my_amount_in_IT2_resp
+
+To display a amount in thousandos, for example, you would need to divide the amount shown on the Workbench by 1000.
+The formula would be: *Grid.Field(""Amount"")/1000*.

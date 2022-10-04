@@ -1,0 +1,8 @@
+how_can_I request_access_to_credit360_resp
+
+To access the system go to the website [https://abinbev.credit360.com](https://abinbev.credit360.com)
+
+Credit360 is an SSO tool, this means that you *must access it from the ID used to access other company tools*.
+For the first access, it is recommended to click on *Have you forgotten your password?*, then an email with your password will be sent to you and you will be able to login.
+
+[How to register a new incident?]"

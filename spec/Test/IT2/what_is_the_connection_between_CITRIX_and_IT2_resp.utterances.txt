@@ -1,0 +1,5 @@
+what_is_the_connection_between_CITRIX_and_IT2_resp
+
+"IT2 can be logged in only through One desktop Citrix and hence the user would require access to Citrix, meaning the user needs to have an Active Directory domain account created.
+
+[Do you know how to access IT2?]"

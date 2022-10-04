@@ -1,0 +1,5 @@
+how_can_I_export_IT2_reports_resp
+
+Under *Layout* tab, you can find *Switch Current View* tool wich allows you to change the Workbench into other formats.
+By adding Workbench into report batch, it allows users to run multiple exports at the same time and enable reports to be sent via e-mail. This could later be added to a scheduled job to be run on a set frequency.
+Under *Workflow and Reporting* tab, you should be able to find the *Report Batches* icon, click on it and launch the *Report batches* Workbench."

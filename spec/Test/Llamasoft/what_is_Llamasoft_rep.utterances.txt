@@ -1,0 +1,4 @@
+what_is_Llamasoft_rep
+
+Coupa-Llamasoft SCG (Supply Chain Guru) is an optimization  software used to support the ABI Growth investment decisions in the Supply Chain Network (Breweries, Depots and Vertical Opertations).
+Several scenarios are simulated and based on the outcomes the decisions are taken. Also other cost simulations can be done on the supply chain.

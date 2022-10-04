@@ -1,0 +1,3 @@
+how_often_is_IT2_updated_resp
+
+Usually *every year* a new release is launched and all communications are shared by IT Ops team.

@@ -1,0 +1,7 @@
+how_to_consult_report_status_on_MXP
+
+Review pending expense reports  – this block displays reports that have been submitted for approval.
+
+
+
+- Submitted reports can be edited, approvers can reject expenses if additional edits are required (these are sent back to the user, who must edit and resubmit).

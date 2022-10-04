@@ -1,0 +1,3 @@
+what_is_blackline_response2
+
+It also has an auto certification in place where in the tool will certify a reconcilation based on enabled logics without any manual interventions. It is also capable of importing line items from ERP to the respective reconciliations automatically using the Transaction matching module feature.

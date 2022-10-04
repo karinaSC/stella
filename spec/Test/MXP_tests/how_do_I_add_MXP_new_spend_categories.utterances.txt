@@ -1,0 +1,5 @@
+how_do_I_add_MXP_new_spend_categories
+
+How can I ensure that new spend categories are properly created in MXP?
+How can I ensure that new spend categories are linked to the correct GL account in MXP?
+How do I add MXP new spend categories?

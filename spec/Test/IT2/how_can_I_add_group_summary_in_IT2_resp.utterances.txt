@@ -1,0 +1,5 @@
+how_can_I_add_group_summary_in_IT2_resp
+
+To add group summary, right click on the field and go to *Field Properties*, navigate to the *Summary* tab. Check the *Total* box under the group level and click on *OK*.
+You can convert amount into other currency using the rate defined in the *conversion* tab.
+Count is used for displaying number of items in each group."

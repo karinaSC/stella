@@ -1,0 +1,3 @@
+how_can_I_share_a_model_with_the_coupa_support_team_rep
+
+To share models to be analyzed for the Coupa support team please *open a Case* describing the problem with the model, the specific scenario to be analized and use the attach feature in the *Open Cases Tab*. 

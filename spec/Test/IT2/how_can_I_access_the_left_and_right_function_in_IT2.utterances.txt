@@ -1,0 +1,6 @@
+how_can_I_access_the_left_and_right_function_in_IT2
+
+How can I access the left and right function in IT2?
+What does the IT2 left function do?
+What does the IT2 right function do?
+Is there a function in IT2 that returns a specified number?

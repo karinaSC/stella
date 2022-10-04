@@ -1,0 +1,11 @@
+which_type_of_access_can_be_requested_in_credit360_resp
+
+There will be three access levels plus an auditor:
+*1. Logger:* can input only the initial incident information. Once the logger submits their report for investigation they can no longer make changes;
+*2. Approver:* conducts the investigation. Completes the investigation portion of the process.  Can change data, add photos and documents , determine the root causes and corrective/preventative actions to complete the investigation.
+*3. Final Approver:* Can review and close the investigation.  Responsable for closing the investigation does NOT close corrective/preventative actions.  The Final Approver can also re-open an investigation should new information become available or if changes need to be made.  
+*4. Auditor:* Ability to go into the system and review data. The auditor cannot make changes to the investigation. The auditor can only see the incidents.
+
+Users who have access to the group *Administrators* are those who have privileged access in the application.
+
+[How can I access Credit360?]

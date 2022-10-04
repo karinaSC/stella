@@ -1,0 +1,5 @@
+what_are_the_roles_in_IT2_resp
+
+"The IT2 roles are Control, Front Office, Operation, COE, GCC, TechSupport, Admin	, Bank Statement Management, Database Lock,  Deal Deletion, Deal Input,  Forecast Upload, Instruction Authoriser, Instruction Verification, Job Run & Service Run, Job Setup, Lookup Table Management, Manual Posting, Netting Profile, Netting Setup, Nominal Ledger Verification, Nominal Ledger Configuration, Rate Upload, Static Data Approval, System Config Approval, User Approval, User Setup.
+
+[Do you know how to access IT2?]"

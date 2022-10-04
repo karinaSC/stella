@@ -1,0 +1,8 @@
+what_are_the_roles_in_credit360_resp
+
+In Credit360 users are set up with different levels of access and responsibilities called Roles. This is for security and system integrity control.
+Power Users are being established across all zones to manage user access and assign these roles.
+- *Larger facilities* will have Power Users to manage the system;
+- *Small facilities* may have Power Users at the Regional level;
+
+All incidents will follow a pre-established workflow to allow for data entry and final approval and closure of the investigation.

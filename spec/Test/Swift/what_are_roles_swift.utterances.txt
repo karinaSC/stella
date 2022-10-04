@@ -1,0 +1,8 @@
+what_are_roles_swift
+
+What are the roles in Swift?
+What types of roles are there in Swift?
+Are there different functions in Swift?
+Where do I find the Swift roles?
+What are the roles and responsabilities of Swift?
+What is the difference between user roles in Swift?

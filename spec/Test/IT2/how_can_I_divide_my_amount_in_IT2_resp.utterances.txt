@@ -1,0 +1,8 @@
+how_can_I_divide_my_amount_in_IT2_resp
+
+To divide you amount search and add the *formula* field to the right hand side of fields window.
+Navigate to the *formula* tab and choose the *amount* field from the list of fields that are available.
+To change display format of the field go to the format tab of the *Properties* window.
+Change align and display format from the *Display* tab.
+
+[Do you want an example?]

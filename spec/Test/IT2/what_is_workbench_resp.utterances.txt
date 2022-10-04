@@ -1,0 +1,7 @@
+what_is_workbench_resp
+
+"*Workbench is one of the main IT2 reporting tool*. It's highly customizable and could be integrated into process maps and managements dashboards.
+
+Workbenchs are divided by data level and they would be retrieving data from different areas of database.
+
+[Do you know how to add fields in Workbench?]"

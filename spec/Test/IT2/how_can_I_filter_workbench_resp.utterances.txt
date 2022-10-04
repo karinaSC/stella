@@ -1,0 +1,6 @@
+how_can_I_filter_workbench_resp
+
+To filter your workbench launch the *Select* window from your top left hand corner.
+*Anchor Date* is the reference date of report.
+Find explanation of each date code from IT2 help.
+Use comma to add in multiple select and parentheses to exclude certain intems.

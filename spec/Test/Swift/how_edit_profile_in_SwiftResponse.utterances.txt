@@ -1,0 +1,4 @@
+how_edit_profile_in_SwiftResponse
+
+Business users will not be able to modify the profiles, they have to reachout to support team for any modification of access.
+Click here if you want to open a ticket on Service Now.

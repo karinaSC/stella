@@ -1,0 +1,5 @@
+what_does_IT2_do_resp
+
+"IT2 is a Core cash management, Risk management, In-house banking, Hedge accounting, Deal management.
+
+[Do you want more information about IT2?]"

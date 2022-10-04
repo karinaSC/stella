@@ -1,0 +1,3 @@
+how_can_I_remove_workbench_grouping_resp
+
+To remove the grouping, you can do that by removing the field from the *Group By* window. Alternatively, right click on the grouping and choose *Don't group by this field*.

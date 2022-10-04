@@ -1,0 +1,3 @@
+what_are_roles_swiftResponse
+
+There are three types of roles: Payment approvers, regular users and Support team users.

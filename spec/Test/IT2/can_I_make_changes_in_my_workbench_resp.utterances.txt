@@ -1,0 +1,5 @@
+can_I_make_changes_in_my_workbench_resp
+
+Be aware that users cannot make changes to the *Master Workbench*. However, they can save the Workbench under another name.
+*Deals Input Today Workbench* is a master Workbench, so changes couldn't be saved.
+Each Workbench in the system needs to have a unique name."

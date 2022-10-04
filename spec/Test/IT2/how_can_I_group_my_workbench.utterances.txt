@@ -1,0 +1,7 @@
+how_can_I_group_my_workbench
+
+How can I group my workbench?
+How the rows in a workbench are grouped?
+How can I access the Group by windowns in IT2?
+What does the workbench listbox displays?
+Can I add multiple grouping level in IT2?

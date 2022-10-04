@@ -1,0 +1,4 @@
+How_open_incident_report_SwiftResponse
+
+Business users can raise requests through ABI Service Now or by help of Techbar team.
+Click here if you want to open a ticket on Service Now.

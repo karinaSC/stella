@@ -1,0 +1,5 @@
+how_can_I_open_an_incident_report_MXP_rep
+
+End users logs the incidents/service request in Zendesk tool, MXP team are able to see the incident received in the dashboard of the tool with the requestor details & when it was requested.
+
+MXP team will open the request & categorize if it is Incident/Question and prioritise the incidents (Incident severity-Low, Medium, High) based on the details provided. Based on the priority the reply time will also be set and will be assigned to team based on the Incident. The incident will be taken care by the assigned team and will be resolved and closed.

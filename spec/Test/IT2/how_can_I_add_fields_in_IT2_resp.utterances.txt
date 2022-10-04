@@ -1,0 +1,9 @@
+how_can_I_add_fields_in_IT2_resp
+
+To add fields launch *Add or remove fields* window.
+The list on the left shows fields that are available to be added. Simply highlight the desired field and click on *add* to add the field to the Workbench.
+Fields that are highlighted in blue could be added to the Workbench multiple time whereas the one is black could only be added once.
+Click on selected field and press the *Properties* button on the right hand corner.
+Change the field display name by editing the name shown in the header section.
+Define the amount CCY from the *Conversions* tab.
+You can also configure the rate set and rate dates used."

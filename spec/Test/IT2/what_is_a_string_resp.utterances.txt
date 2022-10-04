@@ -1,0 +1,4 @@
+what_is_a_string_resp
+
+A String is any finite sequence of characters (i.e., letters, numerals, symbols, and pontuaction marks).
+Make sure you put your string value in parantheses when you use the function.

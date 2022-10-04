@@ -1,0 +1,7 @@
+which_access_can_requested_Swift
+
+Which type of access can be requested in Swift?
+Are there different types of Swift access?
+What is the difference between types of Swift access?
+Which types of licenses can I find in Swift?
+What is the difference between Standard and light license of Swift?

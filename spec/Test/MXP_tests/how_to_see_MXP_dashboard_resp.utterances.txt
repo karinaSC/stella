@@ -1,0 +1,13 @@
+how_to_see_MXP_dashboard-resp 
+
+The MXP Dashboard consists of 4 blocks that form the core of
+
+the application:
+
+- Users will only see their own expense reports. Approvers will
+
+see their expenses as well as those they must review/approve;
+
+- The Dashboard includes a menu  that provides functionality based on user access levels.
+
+- The four blocks on the image correspond to the expense creation/approval process.

@@ -1,0 +1,7 @@
+what_is_the_connection_between_CITRIX_and_IT2
+
+What is the connection between CITRIX and IT2?
+Can I login IT2 through another desktop?
+Can I login IT2 not using citrix?
+Can I login IT2 without an account created in citrix?
+What does Citrix means to IT2?

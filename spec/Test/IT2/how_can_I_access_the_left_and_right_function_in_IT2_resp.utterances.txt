@@ -1,0 +1,5 @@
+how_can_I_access_the_left_and_right_function_in_IT2_resp
+
+To access the left and right function add a new formula field.
+The left function returns a specified number of characters from the left side of a string.
+The right function returns a specifield number of characters froom the right side of a string.

@@ -1,0 +1,8 @@
+how_can_I_use_the_date_add_function_in_IT2
+
+How can I use the date add function in IT2?
+What is the anchor date for a workbench?
+What is a anchor date in IT2?
+How can I add anchor date to my workbench?
+Which formula should I use to add anchor date to my workbench?
+What does the date add function returns in IT2?

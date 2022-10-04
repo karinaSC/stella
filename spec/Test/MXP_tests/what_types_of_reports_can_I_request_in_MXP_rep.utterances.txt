@@ -1,0 +1,18 @@
+what_types_of_reports_can_I_request_in_MXP_rep
+
+
+There are three types of expense reports:
+
+- Travel: includes all expenses for trips that you take or organize for business purposes (e.g., business, sales, training travel);
+
+- Non-travel: includes all other operational expenses (e.g., all CRM spend);
+
+- CapEx: includes expenses that should be directly charged to specific CapEx project (can include travel and non-travel expenses).
+
+Note:
+
+- Do NOT mix travel and non-travel expenses.
+
+- By default, the system charge to your cost center. If you need to charge expenses to another cost center (cross charge), see Charging Different/Multiple Cost Centers.
+
+- All of these reports can include out-of-pocket and mileage expenses and credit card transactions.

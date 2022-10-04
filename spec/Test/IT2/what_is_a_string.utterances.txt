@@ -1,0 +1,6 @@
+what_is_a_string
+
+What is a string?
+How should I use a string in IT2?
+Exemple of strings in IT2
+What is a string in IT2?

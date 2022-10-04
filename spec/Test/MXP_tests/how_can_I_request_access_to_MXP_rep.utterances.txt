@@ -1,0 +1,11 @@
+how_can_I_request_access_to_MXP_rep
+
+All employees will automatically receive access to the MXP system with single sign-on (SSO) capability.
+
+- Access MobileXpense application from ABI Web homepage > Quick
+
+Links > Expense Reporting System;
+
+Note: If you are a non-employee or an employee without an ABI
+
+email address, a User ID and password will be provided to you.

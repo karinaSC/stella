@@ -1,0 +1,5 @@
+what_is_Swift_Response
+
+SWIFT is an acronym for "Society for Worldwide Interbank Financial Telecommunication". It is a network for sending money electronically, which was founded in 1973.
+SWIFT has created a secure network software and common template, standards and protocols for financial messages around the globe. It has facilitated global financial transactions. These protocols are continually being updated.
+Swift Alliance Access is a messaging interface that allows banks and back offices to connect to SWIFT.

@@ -1,0 +1,3 @@
+how_register_new mileage_MXP_rep
+
+Click the Mileage icon in the Create new transactions block.

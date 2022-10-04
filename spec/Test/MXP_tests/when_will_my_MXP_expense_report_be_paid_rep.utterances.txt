@@ -1,0 +1,9 @@
+
+when_will_my_MXP_expense_report_be_paid_rep
+
+
+Reports sent for payment – after an expense report is approved, it will be sent to SAP for subsequent payment processing based on ABI’s standard payment schedule.
+
+
+
+- Settled transactions and reports display in this block. Users can view details of expense reports. Expenses must be submitted within 21 days, and must be approved 14 days after submittal. Delinquency will result in your credit card being turned off.

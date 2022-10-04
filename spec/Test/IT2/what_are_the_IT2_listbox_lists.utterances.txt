@@ -1,0 +1,7 @@
+what_are_the_IT2_listbox_lists
+
+What are the IT2 listbox lists?
+What does the IT2 listbox lists do?
+How are sorted the items in IT2 listbox list?
+The order that the fields appear in IT2 listbox matter?
+Can I chance the IT2 sort order?

@@ -1,0 +1,3 @@
+how_can_I_open_an_incident_report_to_Llamasoft_rep
+
+To open a request related to an incident with Llamasoft you should open a ticket with Coupa team on their portal https://coupa-external.okta.com//

@@ -1,0 +1,4 @@
+how_create_report_blacklineResponse1
+
+In [Blackline](http://www.blackline.com), go to **Products** and **under Reports**,
+click on **Reporting**, then provide the necessary information

@@ -1,0 +1,3 @@
+what_is_mxp_response
+
+MXP is a global expense reporting tool. It is used to control and reimburse expenses, such as tickets, transportation and hotels, for example.

@@ -1,0 +1,6 @@
+how_can_I_use_the_date_add_function_in_IT2_resp
+
+The anchor date for a Workbench is considered the baseline date that the date the time intervals is based off of.
+Add Anchor Date to your Workbench using  *Grid.AnchorDate*.
+The Date Add function returns a date to which a specified time interval has been added.
+DateAdd (interval, number, date)

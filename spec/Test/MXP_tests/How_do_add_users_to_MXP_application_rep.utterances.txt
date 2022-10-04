@@ -1,0 +1,6 @@
+How_do_add_users_to_MXP_application_rep
+
+If you have synchronised your master data with MobileXpense, you do not need do anything specific - all your employees should be able to access the system as users. If you do not have a master data synchronisation active, your Company Administrator can manually add users as they normally do.
+
+
+How to grant access outside of the blueprint on MXP?

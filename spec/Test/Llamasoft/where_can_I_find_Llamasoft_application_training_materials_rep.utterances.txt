@@ -1,0 +1,5 @@
+where_can_I_find_Llamasoft_application_training_materials_rep
+
+For training resources including on-demand eLearning and live, instructor-led training, please visit the [Coupa University Edge Learning Portal](https://success.coupa.com/Learn). 
+Please see the Course Catalog for available courses.
+If you do not have a Coupa-Okta login, please contact [Coupa] (mailto:coupaportals@coupa.com).

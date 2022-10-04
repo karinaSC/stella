@@ -1,0 +1,4 @@
+How_deal_Swift_locked_accountResponse
+
+Support team can enable the account post approval from line manager.
+Click here if you want to open a ticket on Service Now.

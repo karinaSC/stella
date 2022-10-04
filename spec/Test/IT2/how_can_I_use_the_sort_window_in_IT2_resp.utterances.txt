@@ -1,0 +1,3 @@
+how_can_I_use_the_sort_window_in_IT2_resp
+
+The sort window can be used to apply any number of sorts to a Workbench or Workbench pane. You can access this window from the view summary window using "Sort" button.

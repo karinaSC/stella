@@ -1,0 +1,30 @@
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "mocha": "mocha spec"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "botium-bindings": "^2.1.13",
+    "botium-connector-echo": "latest",
+    "mocha": "^10.0.0"
+  },
+  "botium": {
+    "convodirs": [
+      "spec\\convo",
+      "spec\\Test"
+    ],
+    "expandConvos": true,
+    "expandUtterancesToConvos": false,
+    "expandScriptingMemoryToConvos": false
+  },
+  "dependencies": {
+    "botium-connector-directline3": "^0.1.1"
+  }
+}
